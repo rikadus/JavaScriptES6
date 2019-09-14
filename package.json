@@ -10,5 +10,7 @@
   },
   "scripts": {
     "dev": "babel ./main.js -o ./bundle.js -w"
-  }
+  },
+  "repository": "https://github.com/rikadus/JavaScriptES6.git",
+  "author": "rikadus <kadus.vieira@gmail.com>"
 }
